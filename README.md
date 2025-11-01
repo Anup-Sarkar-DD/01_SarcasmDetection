@@ -33,3 +33,8 @@
   <li>Gradio for app deployment</li>
   <li>Hugging Face Spaces for hosting the live demo</li>
 </ul>
+
+<h2>Live Demo</h2>
+<p>Try the sarcasm detection model live on Hugging Face Spaces:  
+<a href="https://huggingface.co/spaces/AnupSarkarDD/SarcasmDetect" target="_blank">https://huggingface.co/spaces/AnupSarkarDD/SarcasmDetect</a></p>
+
